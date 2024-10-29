@@ -1,5 +1,5 @@
-#### `$ echo "Hello stranger!" 👾`
----
+## `$ echo "Hello stranger!" 👾`
+
 `$ whoami`
 
 I am a **QA Automation Engineer** by trade, curious to learn new things in QA, cybersecurity and tech in general.
