@@ -1,5 +1,5 @@
 #### `$ echo "Hello stranger!" 👾`
-
+---
 `$ whoami`
 
 I am a **QA Automation Engineer** by trade, curious to learn new things in QA, cybersecurity and tech in general.
@@ -65,7 +65,5 @@ I am a **QA Automation Engineer** by trade, curious to learn new things in QA, c
 
 [![alt](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-malicky/)
 [![alt](https://img.shields.io/badge/proud_to_work_@-Moxymind-slateblue?style=flat)](https://moxymind.eu)
-
----
 
 ![alt](https://img.shields.io/badge/updated-29.10.2024-brightgreen)
