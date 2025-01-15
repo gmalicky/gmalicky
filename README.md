@@ -55,8 +55,6 @@ I am a **QA Automation Engineer** by trade, curious to learn new things in QA, c
 ![alt](https://img.shields.io/badge/DJI-grey?logo=dji&logoColor=white)
 ![alt](https://img.shields.io/badge/SteelSeries-FF5200?logo=steelseries&logoColor=white)
 ![alt](https://img.shields.io/badge/Raspberry_Pi-A22846?logo=raspberrypi&logoColor=white)
-![alt](https://img.shields.io/badge/Bitcoin-F7931A?logo=bitcoin&logoColor=white)
-![alt](https://img.shields.io/badge/Lightning-792EE5?logo=lightning&logoColor=white)
 ![alt](https://img.shields.io/badge/Ingress-783CBD?logo=ingress&logoColor=white)
 
 <!-- Alice and Smith -->
