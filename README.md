@@ -38,7 +38,6 @@ I am a **QA Automation Engineer** by trade, curious to learn new things in QA, c
 
 `$ ls learning/`
 
-![alt](https://img.shields.io/badge/Playwright-45ba4b?logo=Playwright&logoColor=white)
 ![alt](https://img.shields.io/badge/Cybersecurity-557C94?logo=kalilinux&logoColor=white)
 ![alt](https://img.shields.io/badge/OSINT-3050FF?logo=searxng&logoColor=white)  
 <a href="https://tryhackme.com"><img src="https://tryhackme-badges.s3.amazonaws.com/jimbo9.png" alt="TryHackMe" /></a>
@@ -50,7 +49,8 @@ I am a **QA Automation Engineer** by trade, curious to learn new things in QA, c
 ![alt](https://img.shields.io/badge/Proton-6D4AFF?logo=proton&logoColor=white)
 ![alt](https://img.shields.io/badge/Bitwarden-175DDC?logo=bitwarden&logoColor=white)
 ![alt](https://img.shields.io/badge/Signal-3A76F0?logo=signal&logoColor=white)
-![alt](https://img.shields.io/badge/CyberChef-black?logo=cyberchef&logoColor=white)  
+![alt](https://img.shields.io/badge/MeshCore-263C5C?logo=antennapod&logoColor=white)  
+![alt](https://img.shields.io/badge/CyberChef-black?logo=cyberchef&logoColor=white)
 ![alt](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![alt](https://img.shields.io/badge/DJI-grey?logo=dji&logoColor=white)
 ![alt](https://img.shields.io/badge/SteelSeries-FF5200?logo=steelseries&logoColor=white)
