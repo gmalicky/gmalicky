@@ -39,8 +39,10 @@ I am a **QA Automation Engineer** by trade, curious to learn new things in QA, c
 `$ ls learning/`
 
 ![alt](https://img.shields.io/badge/Cybersecurity-557C94?logo=kalilinux&logoColor=white)
-![alt](https://img.shields.io/badge/OSINT-3050FF?logo=searxng&logoColor=white)  
+![alt](https://img.shields.io/badge/OSINT-3050FF?logo=searxng&logoColor=white)
+![alt](https://img.shields.io/badge/Playwright-45ba4b?logo=Playwright&logoColor=white)  
 <a href="https://tryhackme.com"><img src="https://tryhackme-badges.s3.amazonaws.com/jimbo9.png" alt="TryHackMe" /></a>
+
 
 `$ ls fan_of/`
 
