@@ -41,7 +41,7 @@ I am a **QA Automation Engineer** by trade, curious to learn new things in QA, c
 ![alt](https://img.shields.io/badge/Cybersecurity-557C94?logo=kalilinux&logoColor=white)
 ![alt](https://img.shields.io/badge/OSINT-3050FF?logo=searxng&logoColor=white)
 ![alt](https://img.shields.io/badge/Playwright-45ba4b?logo=playwright&logoColor=white)  
-<a href="https://tryhackme.com"><img src="https://tryhackme-badges.s3.amazonaws.com/jimbo9.png" alt="TryHackMe" /></a> [![alt](pre-security-sec0.png)](https://www.credly.com/badges/57641e4c-9cf5-41fd-b709-19266d697e0f/public_url)
+[![alt](pre-security-sec0.png)](https://www.credly.com/badges/57641e4c-9cf5-41fd-b709-19266d697e0f/public_url)
 
 `$ ls fan_of/`
 
