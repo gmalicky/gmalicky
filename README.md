@@ -21,6 +21,8 @@ I am a **QA Automation Engineer** by trade, curious to learn new things in QA, c
 ![alt](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
 ![alt](https://img.shields.io/badge/Appium-EE376D?logo=appium&logoColor=white)
 ![alt](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=white)
+![alt](https://img.shields.io/badge/Playwright-45ba4b?logo=playwright&logoColor=white)
+![alt](https://img.shields.io/badge/k6-7D64FF?logo=k6&logoColor=white)
 ![alt](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=white)
 ![alt](https://img.shields.io/badge/Cucumber-23D96C?logo=cucumber&logoColor=white)
 ![alt](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
@@ -39,8 +41,7 @@ I am a **QA Automation Engineer** by trade, curious to learn new things in QA, c
 `$ ls learning/`
 
 ![alt](https://img.shields.io/badge/Cybersecurity-557C94?logo=kalilinux&logoColor=white)
-![alt](https://img.shields.io/badge/OSINT-3050FF?logo=searxng&logoColor=white)
-![alt](https://img.shields.io/badge/Playwright-45ba4b?logo=playwright&logoColor=white)  
+![alt](https://img.shields.io/badge/OSINT-3050FF?logo=searxng&logoColor=white)  
 [![alt](pre-security-sec0.png)](https://www.credly.com/badges/57641e4c-9cf5-41fd-b709-19266d697e0f/public_url)
 
 `$ ls fan_of/`
